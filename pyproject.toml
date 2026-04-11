@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Offline decoder for ISO 10962 CFI (Classification of Financial Instruments) codes"
 readme = "README.md"
 requires-python = ">=3.10"
-license = "Apache-2.0"
+license = "GPL-3.0-only"
 license-files = ["LICEN[CS]E*"]
 authors = [{ name = "Arian Šajina" }]
 keywords = ["cfi", "decoder", "iso-10962", "finance", "classification", "financial-instruments"]
