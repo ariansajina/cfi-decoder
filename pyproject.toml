@@ -1,6 +1,6 @@
 [project]
 name = "cfi-decoder"
-version = "0.1.0"
+version = "0.1.1"
 description = "Offline decoder for ISO 10962 CFI (Classification of Financial Instruments) codes"
 readme = "README.md"
 requires-python = ">=3.10"
